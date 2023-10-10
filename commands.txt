@@ -7,3 +7,8 @@ git remote -v
 git pull
 git fetch
 git push
+
+
+
+practice connet here
+im practinhgh
