@@ -15,3 +15,6 @@ im practinhgh
 
 
 contennt frm local to remote
+
+
+contennt frm  remote to local
