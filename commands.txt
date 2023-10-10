@@ -12,3 +12,6 @@ git push
 
 practice connet here
 im practinhgh
+
+
+contennt frm local to remote
