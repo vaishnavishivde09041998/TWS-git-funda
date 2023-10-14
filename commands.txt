@@ -1,4 +1,3 @@
-addeedd blahhhhh blahh blahhhh!!!
 git init 
 git status
 
@@ -8,14 +7,3 @@ git remote -v
 git pull
 git fetch
 git push
-
-
-
-practice connet here
-im practinhgh
-
-
-contennt frm local to remote
-
-
-contennt frm  remote to local
